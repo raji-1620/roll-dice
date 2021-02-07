@@ -1,1 +1,1 @@
-# roll-dice
+A Dice rolling simulator with Python
